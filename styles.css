@@ -1,1 +1,28 @@
-adfas
+section {
+    background-color: aqua;   
+}
+
+body {
+
+    display: flex;
+}
+
+.track-package {
+    padding-block: 10px;
+display: block;
+border: 10;
+margin: 10px;
+}
+
+.idea {
+    margin: 50px;
+}
+
+main {
+    display: block;
+}
+
+article {
+    display: block;
+    margin: 50px;
+}
